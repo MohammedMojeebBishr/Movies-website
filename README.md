@@ -1,27 +1,24 @@
 # 🎬 Movies Streaming Website
 
-موقع **متجر إلكتروني لعرض وبيع الأفلام والاشتراكات الرقمية** بتصميم عصري واحترافي يتيح للعملاء تصفح الأفلام وشرائها أو مشاهدتها بسهولة وأمان.
+A modern digital entertainment platform designed for browsing, purchasing, and accessing movies and subscription-based content through an engaging and user-friendly interface.
 
 ---
 
-## 📌 نبذة عن المشروع
+## 📌 Project Overview
 
-هذا المشروع عبارة عن **موقع إلكتروني للأفلام والترفيه الرقمي** تم تصميمه وبرمجته لتوفير تجربة مشاهدة وتصفح سهلة وسريعة، مع عرض الأفلام والمسلسلات بشكل منظم يساعد المستخدمين في الوصول إلى المحتوى المفضل لديهم بكل سهولة.
+This project is a **Movies Streaming & Digital Entertainment Website** developed to provide users with a seamless experience for exploring movies and entertainment content. The platform features organized content categories, intuitive navigation, and a responsive design to ensure accessibility across all devices.
 
----
+The website aims to:
 
-## 🎯 أهداف الموقع
-
-* بيع أو عرض الأفلام والمحتوى الترفيهي عبر الإنترنت
-* تسهيل وصول العملاء للأفلام المطلوبة
-* عرض المحتوى بشكل واضح ومنظم
-* توفير تجربة استخدام سهلة وآمنة
-* دعم الاشتراكات والطلبات السريعة
-* تصميم متجاوب مع جميع الأجهزة
+* Showcase and promote digital entertainment content
+* Simplify movie discovery and content browsing
+* Provide an intuitive and secure user experience
+* Support digital subscriptions and content access
+* Deliver a fully responsive design for all screen sizes
 
 ---
 
-## 💻 التقنيات المستخدمة
+## 💻 Technologies Used
 
 * HTML
 * CSS
@@ -29,48 +26,44 @@
 
 ---
 
-## 🎬 أقسام الموقع
+## 🎬 Content Categories
 
-* أفلام أكشن
-* أفلام رومانسية
-* أفلام كوميدية
-* أفلام رعب
-* أفلام خيال علمي
-* مسلسلات عالمية
-* أحدث الإصدارات
-* العروض والاشتراكات
-
----
-
-## 🛒 المميزات
-
-* متجر إلكتروني احترافي وسهل الاستخدام
-* إمكانية تصفح الأفلام وشرائها بسهولة
-* تصميم عصري مناسب للمجال الترفيهي
-* متجاوب مع جميع الأجهزة (Responsive)
-* سرعة تحميل وأداء ممتاز
-* واجهة مستخدم مريحة وسلسة
-* نظام طلب سريع وتواصل مباشر
+* Action Movies
+* Romance Movies
+* Comedy Movies
+* Horror Movies
+* Science Fiction Movies
+* TV Series
+* Latest Releases
+* Subscription Plans & Special Offers
 
 ---
 
-## 👨‍💻 البرمجة والتصميم
+## 🛒 Key Features
 
-**محمد مجيب بشر**
+* Modern and professional entertainment-focused design
+* Organized content browsing experience
+* Responsive layout for desktop, tablet, and mobile devices
+* Fast loading speed and optimized performance
+* User-friendly interface and intuitive navigation
+* Digital subscription and content showcase functionality
+* Attractive and engaging visual presentation
+
+---
+
+## 👨‍💻 Design & Development
+
+**Mohammed Mujeeb Bishr**
 
 ---
 
-## 📞 التواصل
+## 📞 Contact Information
 
-* 📱 +967 772062777
-* 📱 +967 782807337
-
----
-
-## 🚀 طريقة التشغيل
-
-1. قم بتحميل المشروع
-2. افتح ملف `index.html`
-3. ابدأ بتصفح الأفلام والاستمتاع بالمحتوى
+* +967 772062777
+* +967 782807337
 
 ---
+
+## 🚀 Notes
+
+Double-click the **index.html** file to run the project locally.
